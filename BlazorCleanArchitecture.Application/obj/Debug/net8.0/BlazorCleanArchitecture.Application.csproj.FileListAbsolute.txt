@@ -1,0 +1,30 @@
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\bin\Debug\net8.0\BlazorCleanArchitecture.Application.deps.json
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\bin\Debug\net8.0\BlazorCleanArchitecture.Application.dll
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\bin\Debug\net8.0\BlazorCleanArchitecture.Application.pdb
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\bin\Debug\net8.0\BlazorCleanArchitecture.Domain.dll
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\bin\Debug\net8.0\BlazorCleanArchitecture.Domain.pdb
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\BlazorCleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\BlazorCleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\BlazorCleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\BlazorCleanArchitecture.Application.AssemblyInfo.cs
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\BlazorCleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\BlazorCl.1F9C9EE4.Up2Date
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\BlazorCleanArchitecture.Application.dll
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\refint\BlazorCleanArchitecture.Application.dll
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\BlazorCleanArchitecture.Application.pdb
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\ref\BlazorCleanArchitecture.Application.dll
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\bin\Debug\net8.0\BlazorCleanArchitecture.Application.deps.json
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\bin\Debug\net8.0\BlazorCleanArchitecture.Application.dll
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\bin\Debug\net8.0\BlazorCleanArchitecture.Application.pdb
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\bin\Debug\net8.0\BlazorCleanArchitecture.Domain.dll
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\bin\Debug\net8.0\BlazorCleanArchitecture.Domain.pdb
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\BlazorCleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\BlazorCleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\BlazorCleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\BlazorCleanArchitecture.Application.AssemblyInfo.cs
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\BlazorCleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\BlazorCl.1F9C9EE4.Up2Date
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\BlazorCleanArchitecture.Application.dll
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\refint\BlazorCleanArchitecture.Application.dll
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\BlazorCleanArchitecture.Application.pdb
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Application\obj\Debug\net8.0\ref\BlazorCleanArchitecture.Application.dll

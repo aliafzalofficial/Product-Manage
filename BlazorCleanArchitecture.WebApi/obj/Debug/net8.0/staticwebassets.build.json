@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "D3uBxmOrqHbfXEuvaCkgBASqltsWAMrODfO/1zUsNks=",
+  "Source": "BlazorCleanArchitecture.WebApi",
+  "BasePath": "_content/BlazorCleanArchitecture.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

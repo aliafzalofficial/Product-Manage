@@ -1,0 +1,139 @@
+﻿@page "/products"
+@inject ProductService ProductService
+@rendermode InteractiveServer
+
+<h3 class="text-xl font-semibold mb-3">Product Manager</h3>
+
+<!-- Product Form -->
+<EditForm Model="@productModel" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="mb-2">
+        <label>Name:</label>
+        <InputText class="form-control" @bind-Value="productModel.Name" />
+    </div>
+
+    <div class="mb-2">
+        <label>Description:</label>
+        <InputTextArea class="form-control" @bind-Value="productModel.Description" />
+    </div>
+
+    <div class="mb-2">
+        <label>Price:</label>
+        <InputNumber class="form-control" @bind-Value="productModel.Price" />
+    </div>
+
+    <div class="mb-2">
+        <label>Quantity:</label>
+        <InputNumber class="form-control" @bind-Value="productModel.Quantity" />
+    </div>
+
+    <button class="btn btn-success me-2" type="submit">
+        @(isEditMode ? "Update" : "Add") Product
+    </button>
+
+    @if (isEditMode)
+    {
+        <button class="btn btn-secondary" @onclick="ResetForm">Cancel</button>
+    }
+</EditForm>
+
+<hr />
+
+<!-- Product List -->
+@if (products == null)
+{
+    <p>Loading...</p>
+}
+else if (products.Count == 0)
+{
+    <p>No products found.</p>
+}
+else
+{
+    <table class="table table-bordered mt-3">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in products)
+            {
+                <tr>
+                    <td>@p.Id</td>
+                    <td>@p.Name</td>
+                    <td>@p.Description</td>
+                    <td>@p.Price</td>
+                    <td>@p.Quantity</td>
+                    <td>
+                        <button class="btn btn-warning me-2" @onclick="() => EditProduct(p)">Edit</button>
+                        <button class="btn btn-danger" @onclick="() => DeleteProduct(p.Id)">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<Product> products = new();
+    private Product productModel = new();
+    private bool isEditMode = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadProducts();
+    }
+
+    private async Task LoadProducts()
+    {
+        products = await ProductService.GetAllProductsAsync();
+    }
+
+    private async Task HandleValidSubmit()
+    {
+        if (isEditMode)
+        {
+            await ProductService.UpdateProductAsync(productModel.Id, productModel);
+        }
+        else
+        {
+            await ProductService.AddProductAsync(productModel);
+        }
+
+        await LoadProducts();
+        ResetForm();
+    }
+
+    private void EditProduct(Product p)
+    {
+        productModel = new Product
+            {
+                Id = p.Id,
+                Name = p.Name,
+                Description = p.Description,
+                Price = p.Price,
+                Quantity = p.Quantity
+            };
+        isEditMode = true;
+    }
+
+    private async Task DeleteProduct(int id)
+    {
+        await ProductService.DeleteProductAsync(id);
+        await LoadProducts();
+    }
+
+    private void ResetForm()
+    {
+        productModel = new Product();
+        isEditMode = false;
+    }
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlazorCleanArchitecture.WebApi.props" />
+</Project>

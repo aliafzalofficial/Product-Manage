@@ -1,0 +1,15 @@
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.WebApi\obj\Debug\net8.0\staticwebassets.build.json

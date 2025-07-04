@@ -1,0 +1,22 @@
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\bin\Debug\net8.0\BlazorCleanArchitecture.Domain.deps.json
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\bin\Debug\net8.0\BlazorCleanArchitecture.Domain.dll
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\bin\Debug\net8.0\BlazorCleanArchitecture.Domain.pdb
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\obj\Debug\net8.0\BlazorCleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\obj\Debug\net8.0\BlazorCleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\obj\Debug\net8.0\BlazorCleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\obj\Debug\net8.0\BlazorCleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\obj\Debug\net8.0\BlazorCleanArchitecture.Domain.dll
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\obj\Debug\net8.0\refint\BlazorCleanArchitecture.Domain.dll
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\obj\Debug\net8.0\BlazorCleanArchitecture.Domain.pdb
+C:\Users\Moez\Desktop\Projects Blazor\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\obj\Debug\net8.0\ref\BlazorCleanArchitecture.Domain.dll
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\bin\Debug\net8.0\BlazorCleanArchitecture.Domain.deps.json
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\bin\Debug\net8.0\BlazorCleanArchitecture.Domain.dll
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\bin\Debug\net8.0\BlazorCleanArchitecture.Domain.pdb
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\obj\Debug\net8.0\BlazorCleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\obj\Debug\net8.0\BlazorCleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\obj\Debug\net8.0\BlazorCleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\obj\Debug\net8.0\BlazorCleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\obj\Debug\net8.0\BlazorCleanArchitecture.Domain.dll
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\obj\Debug\net8.0\refint\BlazorCleanArchitecture.Domain.dll
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\obj\Debug\net8.0\BlazorCleanArchitecture.Domain.pdb
+C:\Users\t\Documents\BlazorCleanArchitecture\BlazorCleanArchitecture.Domain\obj\Debug\net8.0\ref\BlazorCleanArchitecture.Domain.dll

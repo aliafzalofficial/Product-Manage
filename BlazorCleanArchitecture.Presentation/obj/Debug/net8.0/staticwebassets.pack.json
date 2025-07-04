@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Moez\\Desktop\\Projects Blazor\\BlazorCleanArchitecture\\BlazorCleanArchitecture.Presentation\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorCleanArchitecture.Presentation.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorCleanArchitecture.Presentation.4vn0278cdw.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Moez\\Desktop\\Projects Blazor\\BlazorCleanArchitecture\\BlazorCleanArchitecture.Presentation\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Moez\\Desktop\\Projects Blazor\\BlazorCleanArchitecture\\BlazorCleanArchitecture.Presentation\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Moez\\Desktop\\Projects Blazor\\BlazorCleanArchitecture\\BlazorCleanArchitecture.Presentation\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Moez\\Desktop\\Projects Blazor\\BlazorCleanArchitecture\\BlazorCleanArchitecture.Presentation\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorCleanArchitecture.Presentation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorCleanArchitecture.Presentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorCleanArchitecture.Presentation.props",
+      "PackagePath": "build\\BlazorCleanArchitecture.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorCleanArchitecture.Presentation.props",
+      "PackagePath": "buildMultiTargeting\\BlazorCleanArchitecture.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorCleanArchitecture.Presentation.props",
+      "PackagePath": "buildTransitive\\BlazorCleanArchitecture.Presentation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
